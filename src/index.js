@@ -14,9 +14,9 @@ root.render(
         <Route
           path = "*"
           element={
-            <main style={{padding:"1rem"}}>
+            <div style={{padding:"1rem"}}>
               <h1>Misa empty</h1>
-            </main>
+            </div>
           }
         />
       </Route>
