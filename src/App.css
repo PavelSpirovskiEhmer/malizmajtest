@@ -7,3 +7,9 @@
 .pageHeight{
   height: 100vh;
 }
+
+.all-container{
+  margin-top: 5px;
+  margin-right: 5px;
+  width: 100vw;
+}

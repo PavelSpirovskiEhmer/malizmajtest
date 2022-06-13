@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />}>
+      <Route path="/" element={<App />}/>
         <Route path="donated" element={<Donated />} />
         <Route
           path = "*"
@@ -19,7 +19,6 @@ root.render(
             </div>
           }
         />
-      </Route>
     </Routes>
   </BrowserRouter>
 );

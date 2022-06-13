@@ -1,0 +1,73 @@
+[  
+    {
+        "id": 1,
+        "name": "Light",
+        "age": 20,
+        "date": "12.11.2001",
+        "money": "500"
+    },
+
+    {
+        "id": 2,
+        "name": "Kankuro",
+        "age": 22,
+        "date": "27.03.2000",
+        "money": "280"
+    },
+
+    {
+        "id": 3,
+        "name": "Twilight",
+        "age": 16,
+        "date": "14.12.2005",
+        "money": "300"
+    },
+
+    {
+        "id": 4,
+        "name": "Itachi",
+        "age": 19,
+        "date": "07.05.2003",
+        "money": "680"
+    },
+
+    {
+        "id": 5,
+        "name": "Luffy",
+        "age": 18,
+        "date": "30.03.2004",
+        "money": "570"
+    },
+
+    {
+        "id": 6,
+        "name": "L",
+        "age": 23,
+        "date": "01.12.1998",
+        "money": "450"
+    },
+
+    {
+        "id": 7,
+        "name": "Tanjiro",
+        "age": 15,
+        "date": "11.08.2006",
+        "money": "450"
+    },
+
+    {
+        "id": 8,
+        "name": "Kisame",
+        "age": 23,
+        "date": "04.02.1999",
+        "money": "450"
+    },
+
+    {
+        "id": 9,
+        "name": "Eren",
+        "age": 21,
+        "date": "12.01.2001",
+        "money": "450"
+    }
+]
