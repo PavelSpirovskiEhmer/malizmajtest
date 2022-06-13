@@ -76,7 +76,9 @@ function App() {
                   })
               }
             </Row>
-
+            <Button className="top15">
+              <Link to="/donated">Donate</Link>
+            </Button>
             <div
               className="site-layout-background"
               style={{ padding: 24, minHeight: 360 }}
@@ -89,9 +91,6 @@ function App() {
     </Card>
   </div> */}
             {/* <Calendar/> */}
-            <Button>
-              <Link to="/donated">Donate</Link>
-            </Button>
           </Content>
           <Footer style={{ background: "grey" }}>
             <img src="malizmaj.png" alt="Zmaj" />
